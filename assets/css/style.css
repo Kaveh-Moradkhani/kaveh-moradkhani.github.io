@@ -491,12 +491,12 @@ body {
   padding: 50px;
   margin-bottom: 25px;
   background-color: #b74814;
-  background-image: url("../images/sp_main_bg.png");
-  background-size: cover;
-  -webkit-background-size: cover;
+  background-image: url("../images/cover-photo3.webp");
+  background-size: contain;
+  -webkit-background-size: contain;
   background-attachment: scroll;
   background-position: center center;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   border-bottom: 1px solid #eee;
 }
 .main .about-me .about-head .profile {
